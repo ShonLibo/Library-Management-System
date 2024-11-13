@@ -1,0 +1,3 @@
+module BookModule {
+    exports BookPackage;
+}

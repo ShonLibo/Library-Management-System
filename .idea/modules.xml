@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApprovalModule/ApprovalModule.iml" filepath="$PROJECT_DIR$/ApprovalModule/ApprovalModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookModule/BookModule.iml" filepath="$PROJECT_DIR$/BookModule/BookModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BorrowingModule/BorrowingModule.iml" filepath="$PROJECT_DIR$/BorrowingModule/BorrowingModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Management System Module.iml" filepath="$PROJECT_DIR$/Library Management System Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryModule/LibraryModule.iml" filepath="$PROJECT_DIR$/LibraryModule/LibraryModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisitorModule/VisitorModule.iml" filepath="$PROJECT_DIR$/VisitorModule/VisitorModule.iml" />
+    </modules>
+  </component>
+</project>

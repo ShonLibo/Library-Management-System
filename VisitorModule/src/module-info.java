@@ -1,0 +1,3 @@
+module VisitorModule {
+    exports VisitorPackage;
+}
