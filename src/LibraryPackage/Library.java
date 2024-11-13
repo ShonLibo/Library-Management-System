@@ -8,7 +8,7 @@ import static ApprovalPackage.Approval.BookIdValid;
 
 public class Library {
     public static void main(String[] args) {
-   Book book= new Book("Love and Thunder","Lam", 10);
+   Book book= new Book("Love and Thunder","Jordan", 10);
 
    Visitor visitor = new Visitor("Mick","LamX@gamil.com");
         Borrowing borrowing = new Borrowing("King Jerico","Jack","2023_12_13");
