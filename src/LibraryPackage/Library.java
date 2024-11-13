@@ -11,7 +11,7 @@ public class Library {
    Book book= new Book("True Love","Mick", 10);
 
    Visitor visitor = new Visitor("Benge","LamX@gamil.com");
-        Borrowing borrowing = new Borrowing("Love and Thunder","Lam","2023_12_13");
+        Borrowing borrowing = new Borrowing("Love and Thunder","Benge","2023_12_13");
 
         System.out.println("Book Details:");
         System.out.println("Title: " + book.getTitle());
