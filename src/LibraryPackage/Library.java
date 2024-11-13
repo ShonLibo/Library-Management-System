@@ -10,7 +10,7 @@ public class Library {
     public static void main(String[] args) {
    Book book= new Book("Beauty and the Beast","John", 10);
 
-   Visitor visitor = new Visitor("Lam","LamX@gamil.com");
+   Visitor visitor = new Visitor("MMO","LamX@gamil.com");
         Borrowing borrowing = new Borrowing("Love and Thunder","Lam","2023_12_13");
 
         System.out.println("Book Details:");
